@@ -3,6 +3,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f0f0f0;
+    <div class="card-panel teal lighten-2">This is a card panel with a teal lighten-2 class</div>
+
 }
 
 header {
